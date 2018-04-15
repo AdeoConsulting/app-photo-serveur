@@ -1,0 +1,5 @@
+Django==1.10.2
+django-cors-headers==2.2.0
+Pillow==3.4.1
+six==1.10.0
+uuid==1.30
